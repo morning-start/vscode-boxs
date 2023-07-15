@@ -8,7 +8,7 @@
   },
   "icon": "./icon/react-logo.png",
   "publisher": "morningstart",
-  "repository": "https://github.com/morning-start/vsc-react-pack",
+  "repository": "https://github.com/morning-start/vscode-boxs/react-box",
   "categories": [
     "Extension Packs"
   ],

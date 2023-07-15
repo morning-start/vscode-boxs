@@ -8,7 +8,7 @@
   },
   "icon":"./icon/logo.png",
   "publisher": "morningstart",
-  "repository":"https://github.com/morning-start/vsc-vue-pack",
+  "repository":"https://github.com/morning-start/vscode-boxs/vue-box",
   "categories": [
     "Extension Packs"
   ],

@@ -8,7 +8,7 @@
     "vscode": "^1.80.0"
   },
   "icon": "./icon/git.png",
-  "repository":"https://github.com/morning-start/vsc-git-pack",
+  "repository":"https://github.com/morning-start/vscode-boxs/git-box",
   "categories": [
     "Extension Packs"
   ],

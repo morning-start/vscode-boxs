@@ -8,7 +8,7 @@
   },
   "icon":"./icon/CSS.png",
   "publisher": "morningstart",
-  "repository":"https://github.com/morning-start/vsc-css-pack",
+  "repository":"https://github.com/morning-start/vscode-boxs/css-box",
   "categories": [
     "Extension Packs"
   ],

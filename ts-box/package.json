@@ -8,7 +8,7 @@
   },
   "icon":"./icon/typescript.png",
   "publisher": "morningstart",
-  "repository":"https://github.com/morning-start/vsc-ts-pack",
+  "repository":"https://github.com/morning-start/vscode-boxs/ts-box",
   "categories": [
     "Extension Packs"
   ],

@@ -8,7 +8,7 @@
   },
   "icon": "./icon/JavaScript.png",
   "publisher": "morningstart",
-  "repository": "https://github.com/morning-start/vsc-js-pack",
+  "repository": "https://github.com/morning-start/vscode-boxs/js-box",
   "categories": [
     "Extension Packs"
   ],
