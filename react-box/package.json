@@ -1,0 +1,21 @@
+{
+  "name": "react-box-morningstart",
+  "displayName": "React Box",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "icon": "./icon/react-logo.png",
+  "publisher": "morningstart",
+  "repository": "https://github.com/morning-start/vsc-react-pack",
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "antfu.vite",
+    "burkeholland.simple-react-snippets",
+    "dsznajder.es7-react-js-snippets",
+    "msjsdiag.vscode-react-native"
+  ]
+}
