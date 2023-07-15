@@ -1,0 +1,21 @@
+{
+  "name": "git-box-morningstart",
+  "displayName": "Git Box",
+  "description": "A useful git tools box.",
+  "version": "0.0.1",
+  "publisher": "morningstart",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "icon": "./icon/git.png",
+  "repository":"https://github.com/morning-start/vsc-git-pack",
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "codezombiech.gitignore",
+    "mhutchie.git-graph",
+    "redjue.git-commit-plugin",
+    "waderyan.gitblame"
+  ]
+}
