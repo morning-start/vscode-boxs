@@ -2,13 +2,13 @@
   "name": "git-box-morningstart",
   "displayName": "Git Box",
   "description": "A useful git tools box.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "morningstart",
   "engines": {
     "vscode": "^1.80.0"
   },
   "icon": "./icon/git.png",
-  "repository":"https://github.com/morning-start/vscode-boxs/git-box",
+  "repository": "https://github.com/morning-start/vscode-boxs/git-box",
   "categories": [
     "Extension Packs"
   ],
