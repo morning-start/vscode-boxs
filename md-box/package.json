@@ -1,0 +1,28 @@
+{
+  "name": "md-box-morningstart",
+  "displayName": "Markdown Box",
+  "description": "useful markdown tools box",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "icon":"./icon/markdown.png",
+  "publisher": "morningstart",
+  "repository":"https://github.com/morning-start/vsc-md-pack",
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+
+    "bierner.emojisense", 
+    "bierner.markdown-checkbox", 
+    "bierner.markdown-footnotes", 
+    "bierner.markdown-mermaid", 
+    "bierner.markdown-preview-github-styles", 
+    "bierner.markdown-yaml-preamble", 
+    "DavidAnson.vscode-markdownlint", 
+    "telesoho.vscode-markdown-paste-image", 
+    "yzhang.markdown-all-in-one",
+    "zhucy.project-tree"
+  ]
+}
