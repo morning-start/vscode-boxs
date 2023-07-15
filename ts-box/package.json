@@ -1,0 +1,31 @@
+{
+  "name": "ts-box-morningstart",
+  "displayName": "TS Box",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "icon":"./icon/typescript.png",
+  "publisher": "morningstart",
+  "repository":"https://github.com/morning-start/vsc-ts-pack",
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "christian-kohler.npm-intellisense",
+    "dbaeumer.vscode-eslint",
+    "ms-vscode.vscode-typescript-next",
+    "morningstart.runner-morningstart",
+    
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.vscodeintellicode-completions",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+
+    "AlexShen.classdiagram-ts",
+    "moppitz.vscode-extension-auto-import",
+    "stringham.move-ts",
+    "yoavbls.pretty-ts-errors",
+    "quicktype.quicktype"
+  ]
+}
