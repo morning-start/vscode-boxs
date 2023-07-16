@@ -1,0 +1,26 @@
+{
+  "name": "web-box-morningstart",
+  "displayName": "Web Box",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "publisher": "morningstart",
+  "repository": "https://github.com/morning-start/vscode-boxs/web-box",
+  "icon": "./icon/logo.png",
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-rename-tag",
+    "ritwickdey.LiveServer",
+    "techer.open-in-browser",
+    "kisstkondoros.vscode-gutter-preview",
+    
+    "Zignd.html-css-class-completion",
+    "ecmel.vscode-html-css",
+    "michelemelluso.code-beautifier",
+    "paulmolluzzo.convert-css-in-js"
+  ]
+}
