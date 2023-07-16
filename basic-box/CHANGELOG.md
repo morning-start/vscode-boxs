@@ -4,6 +4,6 @@ All notable changes to the "basic-box" extension pack will be documented in this
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [0.0.3]
 
-- Initial release
+- del chinese language pack
