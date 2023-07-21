@@ -8,7 +8,7 @@
   },
   "publisher": "morningstart",
   "repository": {
-    "github":""
+    "github":"https://github.com/morning-start/vscode-boxs/c-box"
   },
   "icon": "./images/icon.png",
   "categories": [
