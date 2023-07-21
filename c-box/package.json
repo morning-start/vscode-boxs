@@ -1,0 +1,22 @@
+{
+  "name": "c-box-morningstart",
+  "displayName": "c box",
+  "description": "C 语言盒子",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "publisher": "morningstart",
+  "repository": {
+    "github":""
+  },
+  "icon": "./images/icon.png",
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "morningstart.runner-morningstart",
+    "morningstart.c-snippet-morningstart",
+    "ms-vscode.cpptools"
+  ]
+}
