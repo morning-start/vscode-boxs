@@ -2,7 +2,7 @@
   "name": "basic-box-morningstart",
   "displayName": "Basic Box",
   "description": "basic box for all project",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "morningstart",
   "engines": {
     "vscode": "^1.80.0"
@@ -11,6 +11,14 @@
   "icon": "./icon/pack.png",
   "categories": [
     "Extension Packs"
+  ],
+  "keywords": [
+    "basic",
+    "keymap",
+    "code",
+    "ai",
+    "icon",
+    "var"
   ],
   "extensionPack": [
     "streetsidesoftware.code-spell-checker",
@@ -25,6 +33,7 @@
     "jeffersonlicet.snipped",
     "xiaoxintongxue.var-conv",
     "tomoki1207.pdf",
-    "quicktype.quicktype"
+    "quicktype.quicktype",
+    "ms-vscode.brackets-keybindings"
   ]
 }
