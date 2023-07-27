@@ -2,7 +2,7 @@
   "name": "basic-box-morningstart",
   "displayName": "Basic Box",
   "description": "basic box for all project",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "morningstart",
   "engines": {
     "vscode": "^1.80.0"
@@ -23,6 +23,7 @@
   "extensionPack": [
     "streetsidesoftware.code-spell-checker",
     "Codeium.codeium",
+    "AMiner.codegeex",
     "ExodiusStudios.comment-anchors",
     "usernamehw.errorlens",
     "kisstkondoros.vscode-gutter-preview",
