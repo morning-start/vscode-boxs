@@ -2,7 +2,7 @@
   "name": "basic-box-morningstart",
   "displayName": "Basic Box",
   "description": "basic box for all project",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "morningstart",
   "engines": {
     "vscode": "^1.80.0"
@@ -33,7 +33,6 @@
     "jeffersonlicet.snipped",
     "xiaoxintongxue.var-conv",
     "tomoki1207.pdf",
-    "quicktype.quicktype",
-    "ms-vscode.brackets-keybindings"
+    "quicktype.quicktype"
   ]
 }
