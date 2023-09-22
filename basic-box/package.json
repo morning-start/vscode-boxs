@@ -23,6 +23,7 @@
   "extensionPack": [
     "streetsidesoftware.code-spell-checker",
     "Codeium.codeium",
+    "jianxiyan.talkx",
     "ExodiusStudios.comment-anchors",
     "usernamehw.errorlens",
     "kisstkondoros.vscode-gutter-preview",
