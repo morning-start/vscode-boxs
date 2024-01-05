@@ -22,9 +22,7 @@
   ],
   "extensionPack": [
     "streetsidesoftware.code-spell-checker",
-    "Codeium.codeium",
     "Alibaba-Cloud.tongyi-lingma",
-    "jianxiyan.talkx",
     "ExodiusStudios.comment-anchors",
     "usernamehw.errorlens",
     "kisstkondoros.vscode-gutter-preview",
