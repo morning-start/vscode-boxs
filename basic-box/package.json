@@ -2,7 +2,7 @@
   "name": "basic-box-morningstart",
   "displayName": "Basic Box",
   "description": "basic box for all project",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "publisher": "morningstart",
   "engines": {
     "vscode": "^1.80.0"
@@ -22,6 +22,8 @@
   ],
   "extensionPack": [
     "streetsidesoftware.code-spell-checker",
+    "iceworks-team.iceworks-time-master",
+    "WakaTime.vscode-wakatime",
     "Alibaba-Cloud.tongyi-lingma",
     "ExodiusStudios.comment-anchors",
     "usernamehw.errorlens",
