@@ -2,7 +2,7 @@
   "name": "js-box-morningstart",
   "displayName": "JS Box",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -17,11 +17,6 @@
     "dbaeumer.vscode-eslint",
     "ms-vscode.vscode-typescript-next",
     "morningstart.runner-morningstart",
-    
-    "VisualStudioExptTeam.vscodeintellicode",
-    "VisualStudioExptTeam.vscodeintellicode-completions",
-    "VisualStudioExptTeam.intellicode-api-usage-examples",
-
     "Orta.vscode-jest",
     "WallabyJs.console-ninja",
     "donjayamanne.jquerysnippets",
