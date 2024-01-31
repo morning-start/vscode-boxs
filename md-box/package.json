@@ -2,7 +2,7 @@
   "name": "md-box-morningstart",
   "displayName": "Markdown Box",
   "description": "useful markdown tools box",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -16,11 +16,9 @@
     "bierner.emojisense",
     "bierner.markdown-checkbox",
     "bierner.markdown-footnotes",
-    "bierner.markdown-mermaid",
     "bierner.markdown-preview-github-styles",
     "bierner.markdown-yaml-preamble",
     "DavidAnson.vscode-markdownlint",
-    "telesoho.vscode-markdown-paste-image",
     "yzhang.markdown-all-in-one",
     "zhucy.project-tree"
   ]
