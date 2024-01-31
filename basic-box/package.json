@@ -2,7 +2,7 @@
   "name": "basic-box-morningstart",
   "displayName": "Basic Box",
   "description": "basic box for all project",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "publisher": "morningstart",
   "engines": {
     "vscode": "^1.80.0"
@@ -31,7 +31,7 @@
     "PKief.material-icon-theme",
     "ionutvmi.path-autocomplete",
     "jeffersonlicet.snipped",
-    "rcc6688899.chtmlCoder",
+    "svenzhao.var-translation",
     "tomoki1207.pdf"
   ]
 }
