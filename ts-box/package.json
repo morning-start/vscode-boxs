@@ -2,7 +2,7 @@
   "name": "ts-box-morningstart",
   "displayName": "TS Box",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -13,10 +13,6 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "christian-kohler.npm-intellisense",
-    "dbaeumer.vscode-eslint",
-    "ms-vscode.vscode-typescript-next",
-    "morningstart.runner-morningstart",
     "AlexShen.classdiagram-ts",
     "moppitz.vscode-extension-auto-import",
     "stringham.move-ts",

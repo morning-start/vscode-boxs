@@ -2,7 +2,7 @@
   "name": "web-box-morningstart",
   "displayName": "Web Box",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -16,8 +16,6 @@
     "formulahendry.auto-rename-tag",
     "ritwickdey.LiveServer",
     "techer.open-in-browser",
-    "kisstkondoros.vscode-gutter-preview",
-    
     "Zignd.html-css-class-completion",
     "ecmel.vscode-html-css",
     "michelemelluso.code-beautifier",
