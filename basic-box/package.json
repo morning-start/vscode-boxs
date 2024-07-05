@@ -2,7 +2,7 @@
   "name": "basic-box-morningstart",
   "displayName": "Basic Box",
   "description": "basic box for all project",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "publisher": "morningstart",
   "engines": {
     "vscode": "^1.80.0"
@@ -22,7 +22,7 @@
   ],
   "extensionPack": [
     "streetsidesoftware.code-spell-checker",
-    "WakaTime.vscode-wakatime",
+    "softwaredotcom.swdc-vscode",
     "sandcastle.vscode-open",
     "Alibaba-Cloud.tongyi-lingma",
     "ExodiusStudios.comment-anchors",

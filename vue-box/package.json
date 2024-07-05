@@ -2,20 +2,21 @@
   "name": "vue-box-morningstart",
   "displayName": "Vue Box",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.80.0"
   },
-  "icon":"./icon/logo.png",
+  "icon": "./icon/logo.png",
   "publisher": "morningstart",
-  "repository":"https://github.com/morning-start/vscode-boxs/vue-box",
+  "repository": "https://github.com/morning-start/vscode-boxs/vue-box",
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
+  "extensionPack": [
     "Vue.volar",
     "Vue.vscode-typescript-vue-plugin",
     "antfu.vite",
-    "titiaiev.vue-docs"
+    "titiaiev.vue-docs",
+    "morningstart.vue3-snipptes"
   ]
 }
