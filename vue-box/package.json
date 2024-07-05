@@ -2,7 +2,7 @@
   "name": "vue-box-morningstart",
   "displayName": "Vue Box",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -13,10 +13,13 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "Vue.volar",
     "Vue.vscode-typescript-vue-plugin",
     "antfu.vite",
     "titiaiev.vue-docs",
-    "morningstart.vue3-snipptes"
+    "morningstart.vue3-snipptes",
+    "dbaeumer.vscode-eslint",
+    "Vue.volar",
+    "dalirnet.vue-sort",
+    "Zignd.html-css-class-completion"
   ]
 }
