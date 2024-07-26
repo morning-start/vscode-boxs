@@ -22,7 +22,6 @@
   ],
   "extensionPack": [
     "streetsidesoftware.code-spell-checker",
-    "softwaredotcom.swdc-vscode",
     "sandcastle.vscode-open",
     "Alibaba-Cloud.tongyi-lingma",
     "ExodiusStudios.comment-anchors",
