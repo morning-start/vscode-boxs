@@ -2,7 +2,7 @@
   "name": "basic-box-morningstart",
   "displayName": "Basic Box",
   "description": "basic box for all project",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "publisher": "morningstart",
   "engines": {
     "vscode": "^1.80.0"
@@ -31,6 +31,8 @@
     "ionutvmi.path-autocomplete",
     "jeffersonlicet.snipped",
     "svenzhao.var-translation",
-    "tomoki1207.pdf"
+    "telesoho.excalidraw-editor-cj",
+    "hediet.vscode-drawio",
+    "cweijan.vscode-typora"
   ]
 }
