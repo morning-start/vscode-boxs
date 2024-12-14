@@ -2,7 +2,7 @@
   "name": "basic-box-morningstart",
   "displayName": "Basic Box",
   "description": "basic box for all project",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "publisher": "morningstart",
   "engines": {
     "vscode": "^1.80.0"
@@ -29,10 +29,6 @@
     "kisstkondoros.vscode-gutter-preview",
     "PKief.material-icon-theme",
     "ionutvmi.path-autocomplete",
-    "jeffersonlicet.snipped",
-    "svenzhao.var-translation",
-    "telesoho.excalidraw-editor-cj",
-    "hediet.vscode-drawio",
-    "ms-windows-ai-studio.windows-ai-studio"
+    "jeffersonlicet.snipped"
   ]
 }
