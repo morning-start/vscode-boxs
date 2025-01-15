@@ -2,7 +2,7 @@
   "name": "git-box-morningstart",
   "displayName": "Git Box",
   "description": "A useful git tools box.",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "publisher": "morningstart",
   "engines": {
     "vscode": "^1.80.0"
@@ -13,7 +13,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "codezombiech.gitignore",
+    "piotrpalarz.vscode-gitignore-generator",
     "mhutchie.git-graph",
     "redjue.git-commit-plugin",
     "waderyan.gitblame",
