@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "basic-box"
+		},
+		{
+			"path": "git-box"
+		},
+		{
+			"path": "md-box"
+		},
+		{
+			"path": "c-box"
+		},
+		{
+			"path": "web-box"
+		},
+		{
+			"path": "js-box"
+		},
+		{
+			"path": "ts-box"
+		},
+		{
+			"path": "vue-box"
+		},
+		{
+			"path": "react-box"
+		},
+	],
+	"settings": {}
+}
