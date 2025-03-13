@@ -2,7 +2,7 @@
   "name": "basic-box-morningstart",
   "displayName": "Basic Box",
   "description": "basic box for all project",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "publisher": "morningstart",
   "engines": {
     "vscode": "^1.80.0"
@@ -25,10 +25,13 @@
     "sandcastle.vscode-open",
     "Alibaba-Cloud.tongyi-lingma",
     "ExodiusStudios.comment-anchors",
+    "PeterSchmalfeldt.explorer-exclude",
     "usernamehw.errorlens",
     "kisstkondoros.vscode-gutter-preview",
     "PKief.material-icon-theme",
     "ionutvmi.path-autocomplete",
-    "jeffersonlicet.snipped"
+    "jeffersonlicet.snipped",
+    "ultram4rine.vscode-choosealicense",
+    "piotrpalarz.vscode-gitignore-generator"
   ]
 }
