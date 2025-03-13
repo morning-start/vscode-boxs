@@ -14,7 +14,6 @@
   ],
   "extensionPack": [
     "AlexShen.classdiagram-ts",
-    "moppitz.vscode-extension-auto-import",
     "stringham.move-ts",
     "yoavbls.pretty-ts-errors",
     "quicktype.quicktype"
