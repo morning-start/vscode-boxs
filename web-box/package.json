@@ -2,7 +2,7 @@
   "name": "web-box-morningstart",
   "displayName": "Web Box",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -19,6 +19,12 @@
     "ecmel.vscode-html-css",
     "michelemelluso.code-beautifier",
     "paulmolluzzo.convert-css-in-js",
-    "bradlc.vscode-tailwindcss"
+    "bradlc.vscode-tailwindcss",
+    "wix.vscode-import-cost",
+    "ms-vscode.vscode-typescript-next",
+    "syler.sass-indented",
+    "pflannery.vscode-versionlens",
+    "moppitz.vscode-extension-auto-import",
+    "christian-kohler.npm-intellisense"
   ]
 }
