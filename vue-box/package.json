@@ -2,21 +2,21 @@
   "name": "vue-box-morningstart",
   "displayName": "Vue Box",
   "description": "",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.80.0"
   },
-  "icon": "./icon/logo.png",
+  "icon": "./icon/logo.jpg",
   "publisher": "morningstart",
   "repository": "https://github.com/morning-start/vscode-boxs/vue-box",
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [
+    "formulahendry.auto-rename-tag",
     "antfu.vite",
     "titiaiev.vue-docs",
     "morningstart.vue3-snipptes",
-    "dbaeumer.vscode-eslint",
     "Vue.volar",
     "dalirnet.vue-sort",
     "Zignd.html-css-class-completion"
