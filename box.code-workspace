@@ -4,7 +4,7 @@
 			"path": "basic-box"
 		},
 		{
-			"path": "git-box"
+			"path": "git-box",
 		},
 		{
 			"path": "md-box"
@@ -28,5 +28,29 @@
 			"path": "react-box"
 		},
 	],
-	"settings": {}
+	"settings": {},
+	"tasks": {
+		"version": "2.0.0",
+		"tasks": [
+			{
+				"label": "VSCE Publish",
+				"type": "shell",
+				"command": "vsce publish ${input:version}",
+				"problemMatcher": [],
+			},
+		],
+		"inputs": [
+			{
+				"id": "version",
+				"type": "pickString",
+				"description": "Enter the version:",
+				"default": "patch",
+				"options": [
+					"patch",
+					"minor",
+					"major",
+				]
+			}
+		],
+	}
 }

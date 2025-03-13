@@ -2,7 +2,7 @@
   "name": "git-box-morningstart",
   "displayName": "Git Box",
   "description": "A useful git tools box.",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "publisher": "morningstart",
   "engines": {
     "vscode": "^1.80.0"
