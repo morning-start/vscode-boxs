@@ -2,7 +2,7 @@
   "name": "basic-box-morningstart",
   "displayName": "Basic Box",
   "description": "basic box for all project",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "publisher": "morningstart",
   "engines": {
     "vscode": "^1.80.0"
@@ -32,6 +32,6 @@
     "ionutvmi.path-autocomplete",
     "jeffersonlicet.snipped",
     "ultram4rine.vscode-choosealicense",
-    "piotrpalarz.vscode-gitignore-generator"
+    "codezombiech.gitignore"
   ]
 }
