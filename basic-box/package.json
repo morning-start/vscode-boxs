@@ -23,7 +23,6 @@
   "extensionPack": [
     "streetsidesoftware.code-spell-checker",
     "sandcastle.vscode-open",
-    "Alibaba-Cloud.tongyi-lingma",
     "ExodiusStudios.comment-anchors",
     "PeterSchmalfeldt.explorer-exclude",
     "usernamehw.errorlens",
