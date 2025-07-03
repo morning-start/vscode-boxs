@@ -2,7 +2,7 @@
   "name": "basic-box-morningstart",
   "displayName": "Basic Box",
   "description": "basic box for all project",
-  "version": "0.6.7",
+  "version": "0.6.10",
   "publisher": "morningstart",
   "engines": {
     "vscode": "^1.80.0"
