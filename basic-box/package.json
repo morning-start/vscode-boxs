@@ -31,6 +31,7 @@
     "ionutvmi.path-autocomplete",
     "jeffersonlicet.snipped",
     "ultram4rine.vscode-choosealicense",
-    "piotrpalarz.vscode-gitignore-generator"
+    "piotrpalarz.vscode-gitignore-generator",
+    "mhutchie.git-graph"
   ]
 }
