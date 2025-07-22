@@ -2,13 +2,13 @@
   "name": "basic-box-morningstart",
   "displayName": "Basic Box",
   "description": "basic box for all project",
-  "version": "0.7.1",
+  "version": "1.0.0",
   "publisher": "morningstart",
   "engines": {
     "vscode": "^1.80.0"
   },
   "repository": "https://github.com/morning-start/vscode-boxs/basic-box",
-  "icon": "./icon/pack.jpg",
+  "icon": "./logo.png",
   "categories": [
     "Extension Packs"
   ],
@@ -22,14 +22,13 @@
   ],
   "extensionPack": [
     "streetsidesoftware.code-spell-checker",
-    "sandcastle.vscode-open",
     "ExodiusStudios.comment-anchors",
-    "PeterSchmalfeldt.explorer-exclude",
+    "sguerri.simple-hide-files",
     "usernamehw.errorlens",
     "kisstkondoros.vscode-gutter-preview",
     "PKief.material-icon-theme",
     "ionutvmi.path-autocomplete",
-    "jeffersonlicet.snipped",
+    "adpyke.codesnap",
     "ultram4rine.vscode-choosealicense",
     "piotrpalarz.vscode-gitignore-generator",
     "mhutchie.git-graph",
