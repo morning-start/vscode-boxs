@@ -1,0 +1,28 @@
+{
+  "name": "python-ovsc",
+  "displayName": "Python Extension Pack for OVSC",
+  "description": "A comprehensive Python development extension pack for OpenVSCode Server",
+  "version": "0.1.0",
+  "publisher": "morningstart",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "repository": "https://github.com/morning-start/vscode-boxs/python-ovsc",
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "python",
+    "jupyter",
+    "pyright",
+    "black",
+    "isort"
+  ],
+  "extensionPack": [ 
+    "detachhead.basedpyright",
+    "ms-python.isort",
+    "ms-toolsai.jupyter",
+    "ms-python.python",
+    "ms-python.black-formatter"
+  ]
+}
