@@ -2,7 +2,7 @@
   "name": "python-ovsc",
   "displayName": "Python Pack for OVSC",
   "description": "A comprehensive Python development extension pack for OpenVSCode Server",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "morningstart",
   "engines": {
     "vscode": "^1.80.0"
@@ -19,11 +19,12 @@
     "black",
     "isort"
   ],
-  "extensionPack": [ 
+  "extensionPack": [
     "detachhead.basedpyright",
     "ms-python.isort",
     "ms-toolsai.jupyter",
     "ms-python.python",
-    "ms-python.black-formatter"
+    "ms-python.black-formatter",
+    "tamasfe.even-better-toml"
   ]
 }
