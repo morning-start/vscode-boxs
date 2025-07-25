@@ -2,7 +2,7 @@
   "name": "python-ovsc",
   "displayName": "Python Extension Pack for OVSC",
   "description": "A comprehensive Python development extension pack for OpenVSCode Server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "morningstart",
   "engines": {
     "vscode": "^1.80.0"
