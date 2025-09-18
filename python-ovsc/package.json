@@ -24,7 +24,7 @@
     "ms-python.isort",
     "ms-toolsai.jupyter",
     "ms-python.python",
-    "ms-python.black-formatter",
+    "charliermarsh.ruff",
     "tamasfe.even-better-toml",
     "fill-labs.dependi"
   ]
