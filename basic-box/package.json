@@ -1,37 +1,38 @@
 {
-  "name": "basic-box-morningstart",
-  "displayName": "Basic Box",
-  "description": "basic box for all project",
-  "version": "1.0.0",
-  "publisher": "morningstart",
-  "engines": {
-    "vscode": "^1.80.0"
-  },
-  "repository": "https://github.com/morning-start/vscode-boxs/basic-box",
-  "icon": "./logo.png",
-  "categories": [
-    "Extension Packs"
-  ],
-  "keywords": [
-    "basic",
-    "keymap",
-    "code",
-    "ai",
-    "icon",
-    "var"
-  ],
-  "extensionPack": [
-    "streetsidesoftware.code-spell-checker",
-    "ExodiusStudios.comment-anchors",
-    "sguerri.simple-hide-files",
-    "usernamehw.errorlens",
-    "kisstkondoros.vscode-gutter-preview",
-    "PKief.material-icon-theme",
-    "ionutvmi.path-autocomplete",
-    "adpyke.codesnap",
-    "ultram4rine.vscode-choosealicense",
-    "piotrpalarz.vscode-gitignore-generator",
-    "mhutchie.git-graph",
-    "quicktype.quicktype"
-  ]
+    "name": "basic-box-morningstart",
+    "displayName": "Basic Box",
+    "description": "basic box for all project",
+    "version": "1.0.0",
+    "publisher": "morningstart",
+    "engines": {
+        "vscode": "^1.80.0"
+    },
+    "repository": "https://github.com/morning-start/vscode-boxs/basic-box",
+    "icon": "./logo.png",
+    "categories": [
+        "Extension Packs"
+    ],
+    "keywords": [
+        "basic",
+        "keymap",
+        "code",
+        "ai",
+        "icon",
+        "var"
+    ],
+    "extensionPack": [
+        "streetsidesoftware.code-spell-checker",
+        "ExodiusStudios.comment-anchors",
+        "sguerri.simple-hide-files",
+        "usernamehw.errorlens",
+        "kisstkondoros.vscode-gutter-preview",
+        "PKief.material-icon-theme",
+        "ionutvmi.path-autocomplete",
+        "adpyke.codesnap",
+        "ultram4rine.vscode-choosealicense",
+        "piotrpalarz.vscode-gitignore-generator",
+        "mhutchie.git-graph",
+        "quicktype.quicktype",
+        "EditorConfig.EditorConfig"
+    ]
 }
