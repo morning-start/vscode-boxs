@@ -33,6 +33,7 @@
         "piotrpalarz.vscode-gitignore-generator",
         "mhutchie.git-graph",
         "quicktype.quicktype",
-        "EditorConfig.EditorConfig"
+        "EditorConfig.EditorConfig",
+        "esbenp.prettier-vscode"
     ]
 }
