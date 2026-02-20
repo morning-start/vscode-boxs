@@ -21,7 +21,6 @@
         "var"
     ],
     "extensionPack": [
-        "streetsidesoftware.code-spell-checker",
         "ExodiusStudios.comment-anchors",
         "sguerri.simple-hide-files",
         "usernamehw.errorlens",
