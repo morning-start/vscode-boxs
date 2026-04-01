@@ -3,8 +3,8 @@
     "displayName": "Modern Python Pack",
     "publisher": "morningstart",
     "description": "python pack for astral-sh, include uv, ty, ruff",
-    "version": "0.0.1",
-    "repository": "https://github.com/morning-start/vscode-boxs/astral-sh-py",
+    "version": "0.1.0",
+    "repository": "https://github.com/morning-start/vscode-boxs/tree/main/astral-sh-py",
     "engines": {
         "vscode": "^1.80.0"
     },
