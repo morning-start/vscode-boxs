@@ -2,6 +2,8 @@
 
 一个现代化的 Python 开发工具包，集成了 astral-sh 生态系统中的优秀工具，为 VS Code 提供完整的 Python 开发体验。
 
+**当前版本**: 1.2.1
+
 ## 📦 包含的扩展
 
 本扩展包包含以下精心挑选的扩展：
@@ -11,9 +13,10 @@
 | [charliermarsh.ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)             | Ruff - 极速的 Python linter 和 formatter |
 | [astral-sh.ty](https://marketplace.visualstudio.com/items?itemName=astral-sh.ty)                         | Ty - Python 类型检查器                   |
 | [ms-python.python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)                 | Python 官方扩展                          |
-| [ms-python.debugpy](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy)               | Python 调试器                            |
 | [tamasfe.even-better-toml](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) | TOML 文件支持                            |
 | [morningstart.ruff-helper](https://marketplace.visualstudio.com/items?itemName=morningstart.ruff-helper) | Ruff 辅助工具                            |
+| [fill-labs.dependi](https://marketplace.visualstudio.com/items?itemName=fill-labs.dependi)               | Dependi - 智能依赖管理工具               |
+| [ms-toolsai.jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)             | Jupyter Notebook 支持                    |
 
 ## ✨ 主要特性
 
@@ -25,7 +28,8 @@
 ### 🔧 完整的工具链
 - 代码格式化和 lint
 - 类型检查
-- 调试支持
+- 智能依赖管理
+- Jupyter Notebook 支持
 - TOML 配置文件支持
 - 包管理和依赖解析
 
@@ -111,6 +115,20 @@ uv run python script.py
 uv lock --upgrade
 ```
 
+### Dependi 使用
+Dependi 提供智能的依赖管理功能：
+- 自动检测和显示依赖版本
+- 在编辑器中直接查看依赖信息
+- 支持快速更新依赖版本
+- 与 uv、pip 等包管理器无缝集成
+
+### Jupyter 使用
+在 VS Code 中使用 Jupyter Notebook：
+- 创建新的 Jupyter Notebook 文件（`.ipynb`）
+- 使用 `Ctrl+Shift+P` -> "Jupyter: Create New Blank Notebook"
+- 支持代码单元格、Markdown 单元格
+- 内置可视化图表和交互式输出
+
 ## 🛠️ 配置建议
 
 ### VS Code 设置 (settings.json)
@@ -140,6 +158,8 @@ my-project/
 │       └── __init__.py
 ├── tests/
 │   └── test_example.py
+├── notebooks/
+│   └── example.ipynb
 └── uv.lock
 ```
 

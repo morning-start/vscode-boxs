@@ -3,7 +3,7 @@
     "displayName": "Modern Python Pack",
     "publisher": "morningstart",
     "description": "python pack for astral-sh, include uv, ty, ruff",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "icon": "./logo.jpg",
     "repository": "https://github.com/morning-start/vscode-boxs/tree/main/astral-sh-py",
     "engines": {
@@ -23,7 +23,6 @@
         "charliermarsh.ruff",
         "astral-sh.ty",
         "ms-python.python",
-        "ms-python.debugpy",
         "tamasfe.even-better-toml",
         "morningstart.ruff-helper",
         "fill-labs.dependi",
